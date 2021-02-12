@@ -1,0 +1,48 @@
+.logo{
+    float: left;
+    margin-right: 50px; 
+    width: 100px;
+    height: 50px; 
+    background-color: gray;
+    
+}
+
+
+.title{
+height: 50px;
+font-size: xx-large;
+font-style:inherit;
+color: royalblue;
+background-color:white ;
+
+   
+}
+
+
+header nav ul li {
+    display: inline;
+    margin-right:50px ;
+}
+
+
+main h1{
+    
+}
+
+main p{
+font-size:x-large ;
+font-style: inherit;
+color:blue ;
+margin-bottom: 500px;
+}
+
+
+
+.mainimg{
+    float: left;
+    width:45% ;
+    margin-right:5% ;
+
+  
+}
+
