@@ -22,7 +22,7 @@ How likely you are to develop osteoporosis depends partly on how much bone mass 
 
 
 
-[Osteoporosis](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/55/ds00128_im02980_mcdc7_osteoporosis-_comparethu_jpg.jpg)
+![Osteoporosis](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/55/ds00128_im02980_mcdc7_osteoporosis-_comparethu_jpg.jpg)
 
 
 
