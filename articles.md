@@ -8,5 +8,5 @@
 Articles      | Links
 ------------- | -------------
 Diabetes      | [Diabetes](https://doaa-1996.github.io/test1/article1)  
-| Osteoporosis| [Osteoporosis](https://doaa-1996.github.io/test1/article2)  
+ Osteoporosis | [Osteoporosis](https://doaa-1996.github.io/test1/article2)  
 
